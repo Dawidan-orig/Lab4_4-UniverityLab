@@ -1,0 +1,4 @@
+﻿  Lab4_4.cpp
+C:\main\VS22 Repos\Lab4_4\Lab4_4.cpp(39,13): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\main\VS22 Repos\Lab4_4\Lab4_4.cpp(258,30): warning C4244: =: преобразование "float" в "COLORREF", возможна потеря данных
+  Lab4_4.vcxproj -> C:\main\VS22 Repos\Lab4_4\x64\Debug\Lab4_4.exe

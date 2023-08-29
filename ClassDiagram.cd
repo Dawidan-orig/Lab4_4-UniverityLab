@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="IReactive" Collapsed="true">
+    <Position X="3.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Lab4_4.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameObject" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAgAAABAQAAAAAAAAAAGAAABkAGIAAAA=</HashCode>
+      <FileName>Lab4_4.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Figure_GrandTree" Collapsed="true">
+    <Position X="6.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAAAAACAAAAAAgABAAggAABAAAAAAAADAAQAAAAAAAA=</HashCode>
+      <FileName>Lab4_4.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EatenTree" Collapsed="true">
+    <Position X="6.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAEAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Lab4_4.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WimpTree" Collapsed="true">
+    <Position X="8.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAIAAAAAAAAACAAEAAAAAAAA=</HashCode>
+      <FileName>Lab4_4.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ToughTree" Collapsed="true">
+    <Position X="11" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACgAAIAAgAAAAAAAAAAAAEAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Lab4_4.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MagicTree" Collapsed="true">
+    <Position X="6.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACQAABAAAAAAAAAIAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Lab4_4.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AngryTree" Collapsed="true">
+    <Position X="11" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAABAAgAAAAAAAAAAAAACAAACAAAAAAACAAA=</HashCode>
+      <FileName>Lab4_4.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TriangleTree" Collapsed="true">
+    <Position X="11" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Lab4_4.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
